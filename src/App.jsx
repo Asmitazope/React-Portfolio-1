@@ -7,7 +7,6 @@ import { SpeedInsights } from '@vercel/speed-insights/react'
 import { ToastProvider } from './assets/hooks/ToastProvider.jsx'
 
 function App() {
-
   return (
     <>
       <ToastProvider>
